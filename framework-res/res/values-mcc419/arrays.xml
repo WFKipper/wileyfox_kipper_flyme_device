@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_region_locked_packages">
+        <item>com.souq.app</item>
+    </string-array>
+</resources>
